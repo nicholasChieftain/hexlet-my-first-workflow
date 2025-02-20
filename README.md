@@ -1,3 +1,4 @@
 # hexlet-my-first-workflow
 
-![Test Workflow](https://github.com/nicholasChieftain/hexlet-my-first-workflow/actions)
+![Test workflow]
+(https://github.com/nicholasChieftain/hexlet-my-first-workflow/actions/workflows/test.yml/badge.svg)
